@@ -1,0 +1,14 @@
+---
+:id: 33736700
+:submitters:
+- :name: CHENYUE HU
+  :email: u1275460@utah.edu
+- :name: JIAHAO HE
+  :email: u1217814@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-04-06 20:26:06.971718000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-04-06 13:26:06.971718000 Z
+:status: processed
+:score: 85.0
