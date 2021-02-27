@@ -1,0 +1,12 @@
+---
+:id: 27904342
+:submitters:
+- :name: CHENYUE HU
+  :email: u1275460@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-01-29 04:41:25.934587000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-01-28 20:41:25.934587000 Z
+:status: processed
+:score: 98.0
