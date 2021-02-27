@@ -1,0 +1,3 @@
+sad,are you ok
+happy,i am happy too
+angry,calm down
